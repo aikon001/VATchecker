@@ -1,0 +1,34 @@
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\appsettings.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\VAT checker.exe
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\VAT checker.deps.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\VAT checker.runtimeconfig.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\VAT checker.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\VAT checker.pdb
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.csproj.AssemblyReference.cache
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.AssemblyInfoInputs.cache
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.AssemblyInfo.cs
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.csproj.CoreCompileInputs.cache
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\scopedcss\bundle\VAT checker.styles.css
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\refint\VAT checker.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.pdb
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.genruntimeconfig.cache
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\ref\VAT checker.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aikon\source\repos\VAT checker\VAT checker\obj\Debug\net6.0\VAT checker.csproj.CopyComplete
+C:\Users\aikon\source\repos\VAT checker\VAT checker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
