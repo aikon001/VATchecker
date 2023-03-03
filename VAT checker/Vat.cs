@@ -1,9 +1,5 @@
 ﻿namespace VAT_checker
 {
-    public class RequestVat
-    {
-        public string Vat_id { get; set; }
-    }
     public class Vat
     {
         public string Id { get; set; }
