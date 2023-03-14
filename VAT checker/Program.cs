@@ -8,15 +8,14 @@ builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
-app.MapGet("/vat/{id}", async ([FromServices]IVatCheckerService vatService, HttpContext context, string id) =>
+app.MapGet("/vat/{id}", async (IVatCheckerService vatService, string id) =>
 {
     var info = await vatService.FetchVatAsync(id);
     if (info == null)
     {
-        context.Response.StatusCode = StatusCodes.Status404NotFound;
-        return;
+        return Results.NotFound();
     }
-    await context.Response.WriteAsJsonAsync(info);
+    return Results.Ok(info);
 });
 
 app.Run();
