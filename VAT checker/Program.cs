@@ -1,21 +1,15 @@
+using Microsoft.AspNetCore.Mvc;
 using VAT_checker;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddScoped<IVatCheckerService,VatCheckerService>();
-builder.Services.AddScoped(provider =>
-{
-    var client = new HttpClient();
-    return client;
-});
+builder.Services.AddHttpClient();
 
 var app = builder.Build();
 
-app.MapGet("/vat/{id}", async (HttpContext context, string id) =>
+app.MapGet("/vat/{id}", async ([FromServices]IVatCheckerService vatService, HttpContext context, string id) =>
 {
-    var httpClient = context.RequestServices.GetRequiredService<HttpClient>();
-    var vatService = new VatCheckerService(httpClient);
-
     var info = await vatService.FetchVatAsync(id);
     if (info == null)
     {
